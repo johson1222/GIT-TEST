@@ -1,0 +1,7 @@
+#include "main.h"
+
+int main(void)
+{
+	printk("GIT-TEST For Johson.Lee\n");
+	return 1;
+}
